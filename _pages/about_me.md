@@ -2,9 +2,10 @@
 layout: single
 title: "About Me"
 permalink: /about/
-last_modified_at: 2021-09-14
+last_modified_at: 2021-10-13
 toc: true
 toc_label: "About Me"
+toc_sticky: true
 ---
 
 I am currently a PhD student in Cognition and Neuroscience at the University of Texas at Dallas.
@@ -44,7 +45,7 @@ But alas, at some point it was time to go.
 In 2019, arrived in Richardson, Texas to start my PhD in Cognition and Neuroscience with Dr. Herv&eacute; Abdi. 
 I knew from my college experience that I wanted to apply my math and computer science knowledge to data in the biosciences. 
 Dr. Abdi's lab was the perfect fit, and in my first two years in the program I learned my love for R and statistics.
-For my first year project, I created a new multivariate method called PLSMFA and wrote an [R package](https://github.com/LukeMoraglia/PLSMFA) to implement it.
+For my first year project, I created a new multivariate method called PLSMFA and wrote an [R package](https://github.com/LukeMoraglia/PLSMFA){:target="_blank"} to implement it.
 Right now, I am finishing up my second year project, a literature review about permutation tests for multivariate methods.
 I've also been working on collaborative projects where I analyze and visualize data with R to answer questions about autism spectrum disorder, occupational skills, and decision making.
 Entering the start of my third year (Fall 2021), I am a teaching assistant for Dr. Abdi's advanced multivariate statistics and programming in R classes.
