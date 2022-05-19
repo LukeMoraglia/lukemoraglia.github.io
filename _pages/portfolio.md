@@ -2,7 +2,7 @@
 layout: single
 title: "Portfolio"
 permalink: /portfolio/
-last_modified_at: 2021-11-11
+last_modified_at: 2022-05-19
 toc: true
 toc_label: "Portfolio"
 toc_sticky: true
@@ -10,20 +10,27 @@ toc_sticky: true
 
 Below is a collection of some of the work I've done or contributed to!
 
+## Collaborative work with the Baby Brain Lab
+
+I have been working on a project investigating the relationships between regional brain morphometry (surface area and cortical thickness) and language abilities in infants with and without autism. 
+This is a collaboration between my lab and the [Baby Brain Lab](https://labs.utdallas.edu/babybrainlab/){:target="blank"} at UT Dallas, led by Dr. Meghan Swanson.
+My job for the project has primarily been designing and executing the data analysis, and at time of writing we have begun working on a manuscript for publication. 
+Recently, I had the chance to present some of this work at the INSAR 2022 Annual Meeting, which you can read about in my [post](/INSAR2022/index.html) about the conference.
+
 ## PLSMFA
 
 For my first year project in my PhD, I developed a new multivariate analysis called
 partial least squares multiple factor analysis (PLSMFA).
 Say that five times fast. 
 - The [R package](https://github.com/LukeMoraglia/PLSMFA){:target="_blank"} that I wrote to perform the analysis is available on my GitHub. 
-- I gave a talk on the technique at the Psychology Lecture Series at UT Dallas, and the video is available [here](https://youtu.be/0jy-_ix8xz0){:target="_blank"} (it's not all statistics, there's a healthy dose
-of beer, too).
+- I gave a talk on the technique at the Psychology Lecture Series at UT Dallas, and the video is available [here](https://youtu.be/0jy-_ix8xz0){:target="_blank"} (it's not all statistics, there's a healthy dose of beer, too).
 
-## O*NET Shiny App
+## VOLCANO
 
-Currently in development, a Shiny App for visualizing PCA and hierarchical clustering on occupation data obtained from [O*NET](https://www.onetonline.org){:target="_blank"}. 
+Visualization of Latent Components Assessed in O\*NET Occupations (VOLCANO)is a Shiny App for running and visualizing PCA and clustering on occupation data from [O*NET](https://www.onetonline.org){:target="_blank"}. 
 - The [app](https://lukemoraglia.shinyapps.io/ONETrowClust/){:target="_blank"} is available online.
-- The [code](https://github.com/juchiyu/OccupationPCAs){:target="_blank"} for the app and the forthcoming publication are available on GitHub. 
+- The [code](https://github.com/juchiyu/OccupationPCAs){:target="_blank"} for the app and the forthcoming publication are available on GitHub.
+- The [preprint](https://doi.org/10.31234/osf.io/crbh9){:target="_blank"} of our paper is available on PsyArXiv.
 
 ## *Git & GitHub Tutorial for Scientists: It’s Not Only for Programmers*
 
