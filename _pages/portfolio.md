@@ -2,13 +2,14 @@
 layout: single
 title: "Portfolio"
 permalink: /portfolio/
-last_modified_at: 2022-05-19
+last_modified_at: 2022-11-02
 toc: true
 toc_label: "Portfolio"
 toc_sticky: true
 ---
 
 Below is a collection of some of the work I've done or contributed to!
+You can check out my full professional experience, including past jobs and internships, on my [LinkedIn](https://www.linkedin.com/in/lukemoraglia/){:target="blank"}.
 
 ## Collaborative work with the Baby Brain Lab
 

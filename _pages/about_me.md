@@ -2,7 +2,7 @@
 layout: single
 title: "About Me"
 permalink: /about/
-last_modified_at: 2022-05-19
+last_modified_at: 2022-11-02
 toc: true
 toc_label: "About Me"
 toc_sticky: true
@@ -11,8 +11,8 @@ toc_sticky: true
 I am currently a PhD student in Cognition and Neuroscience at the University of Texas at Dallas.
 My research is on multivariate statistics and their applications to data in cognition, neuroscience, other big data fields.
 I enjoy data manipulation, modeling, and visualization. 
-My language of choice is R, though I'm also exploring Python, and have knowledge of C++.
-More about my experiences and skills can be found on my resume. 
+My language of choice for my research is R, though I'm also proficient in Python for data science and have experience with C++.
+More about my professional experience and skills can be found on my on my [LinkedIn](https://www.linkedin.com/in/lukemoraglia/){:target="blank"}. 
 
 ## How I got here
 
@@ -43,7 +43,7 @@ But alas, at some point it was time to go.
 
 ### UT Dallas
 
-In 2019, arrived in Richardson, Texas to start my PhD in Cognition and Neuroscience with Dr. Herv&eacute; Abdi. 
+In 2019, I arrived in Richardson, Texas to start my PhD in Cognition and Neuroscience with Dr. Herv&eacute; Abdi. 
 I knew from my college experience that I wanted to apply my math and computer science knowledge to data in the biosciences. 
 Dr. Abdi's lab was the perfect fit, and in my first two years in the program I learned my love for R and statistics.
 For my first year project, I created a new multivariate method called PLSMFA and wrote an [R package](https://github.com/LukeMoraglia/PLSMFA){:target="_blank"} to implement it.
@@ -56,22 +56,4 @@ I'm very excited to keep learning more about statistics and data science, and ho
 
 I love to learn, so I have a habit of becoming obsessed with a new topic and diving deep into it to soak up as much as I can. 
 They don't all become passions or hobbies, but some stick around long-term.
-Here is a quick list of some of the things I am most interested in right now.
-
-- Sustainability
-   - Climate change
-   - Clean energy
-   - Plant-based diet
-- Health and Nutrition
-   - Running
-   - Weight training
-   - Plant-based diet (*again*)
-- Outdoors
-   - Camping
-   - Hiking
-   - Astronomy and stargazing
-   - Any body of water
-- Cooking and Food
-   - Fermentation
-   - Homebrewing beer
-   - Kombucha
+Things that I am always down to chat about include the great outdoors, vegan cooking, astronomy, homebrewing, and the [quirky Wikipedia article](https://www.instagram.com/depthsofwikipedia/){:target="_blank"} that you just read.
