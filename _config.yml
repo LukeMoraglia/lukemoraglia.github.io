@@ -110,8 +110,8 @@ analytics:
 # Site Author
 author:
   name             : "Luke Moraglia"
-  avatar           : "/assets/images/headshot2.jpg"
-  bio              : "PhD Student --- Statistics, Data Science, Neuroscience"
+  avatar           : "/assets/images/headshot3.jpg"
+  bio              : "PhD Student --- Data Science, Statistics, Neuroscience"
   location         : "Texas, USA"
   email            : 
   links:
