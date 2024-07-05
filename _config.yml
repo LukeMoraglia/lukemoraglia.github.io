@@ -109,30 +109,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luke Moraglia"
+  name             : "Luke Moraglia, PhD"
   avatar           : "/assets/images/headshot3.jpg"
-  bio              : "PhD Student --- Data Science, Statistics, Neuroscience"
+  bio              : "Data Science, Statistics, Neuroscience"
   location         : "Texas, USA"
   email            : 
   links:
     - label: "Email"
       icon : "fas fa-fw fa-envelope"
       url  : "mailto:lukemoraglia@gmail.com"
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Luke_E_Moraglia"
-    #- label: "Facebook"
-    #  icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/LukeMoraglia"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lukemoraglia/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/LukeMoraglia"
+    
 
 # Site Footer
 footer:
